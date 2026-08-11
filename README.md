@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fullstack development 💻<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with backend and mobile dev<br>🌱 I’m currently learning APIs<br>💬 Ask me about anything related to frontend and backend <br>⚡ Fun fact: Your brain sometimes <br>generates fake memories with total confidence
+🔭 I’m currently working on Fullstack development 💻<br>👯 I’m looking to collaborate on frontend and backend stuff <br>🤝 I’m looking for help with backend and mobile dev<br>🌱 I’m currently learning APIs<br>💬 Ask me about anything related to frontend and backend <br>⚡ Fun fact: Your brain sometimes <br>generates fake memories with total confidence
 
 
 ## 🌐 Socials:
